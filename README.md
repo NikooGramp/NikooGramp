@@ -1,11 +1,11 @@
 ## Holaa, soy Niko!! 😄
   ¡¡Como dije soy niko y este es mi Github personal!! 
   
-  --> Tengo 17 años y me dedico principalmente a estudiar programacion en diferentes lenguages, me centro en los video juegos y amo probar nuevos entornos de desarollo de video juegos.
+  About me: Tengo 17 años y me dedico principalmente a estudiar programacion en diferentes lenguages, me centro en los video juegos y amo probar nuevos entornos de desarollo de video juegos.
   
-  --> Actualmente resido en Alemania asi que tambien estoy mayormente estudiando Aleman.
+  Country: Actualmente resido en Alemania asi que tambien estoy mayormente estudiando Aleman.
   
-  --> Aun asi no dejo atras ninguna de las dos cosas. Amo estudiar lo que sea, y la programacion capto mi atencion desde que toque mi primera Pc a mis 8 u 9 años. 
+  More about me: Aun asi no dejo atras ninguna de las dos cosas. Amo estudiar lo que sea, y la programacion capto mi atencion desde que toque mi primera Pc a mis 8 u 9 años. 
 
 
 <!--
